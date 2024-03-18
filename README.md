@@ -1,38 +1,102 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
+<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
-# Template para Disciplina de Engenharia de Software
-
-O repositório define um modelo (*template*) que deverá ser seguido por cada grupo no projeto.
-
-A seguir, os passos para a preparação do projeto:
-
-1. Um dos membros do grupo deverá realizar um *fork* deste repositório.
-2. O dono do repositório deverá convidar os demais membros do grupo para serem colaboradores.
-3. O dono do repositório deverá convidar o professor para ser colaborador do repositório.
-4. O dono do repositório deverá habilitar o GitHub Pages. Basta seguir o [procedimento para habilitar o GitHub Pages](https://docs.github.com/pt/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site), lembrando de escolher em *Source* a opção `/docs` em lugar da opção `/root`.
-5. Cada membro do grupo deverá instalar o [Git](https://git-scm.com/downloads).
-6. Para a edição do conteúdo deste projeto, sugere-se que cada membro do grupo faça a instalação do [Visual Studio Code](https://code.visualstudio.com/) com as extensões [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) e [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github). No entanto, cada membro poderá utilizar a IDE de sua preferência.
-7. Cada membro do grupo deverá [clonar o repositório do grupo no seu computador](https://learn.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette).
-8. Cada membro do grupo deverá editar o seu próprio nome no arquivo em [/docs/index.md](./docs/index.md), de preferência [criando um novo *branch* e um *pull request*](https://www.youtube.com/watch?v=LdSwWxVzUpo).
-9. O dono do repositório deverá editar este arquivo, removendo estas instruções iniciais e preenchendo o restante da página com os dados do projeto do seu grupo.
-10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
+<font size="+12"><center>
+*&lt;Inovação na Gestão Médica: Rumo a uma Saúde mais Eficiente e Segura&gt;*
+</center></font>
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+**Conteúdo**
 
-# Grupo: *<Nome_do_seu_Grupo>*
+- [Autores](#autores)
+- [Descrição do projeto](#descrição-do-projeto)
+- [Definição de demanda de desenvolvimento](#definição-de-demanda-de-desenvolvimento)
+- [Diagrama de casos de uso](#diagrama-de-casos-de-uso)
+- [Descrição dos casos de uso](#descrição-dos-casos-de-uso)
 
-# Descrição
+# Autores
 
-*<Descrição_resumida_do_projeto>*
+* Lucas Bittencourt de Oliveira
 
-# Documentação
+# Descrição do projeto
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
+*O "Sistema de Gestão Médica” é uma aplicação de software desenvolvida para auxiliar médicos e pacientes na organização, armazenamento e acesso seguro a informações médicas, históricos de pacientes, prescrições, resultados de exames e outras funcionalidades relacionadas à área da saúde.*
 
 
+# Diagrama de casos de uso
 
-# Releases
+## Paciente
+![Diagrama de casos de uso Paciente](docs/caso_de_uso_paciente.png)
 
-Deverá ser publicado um release ao término de cada entrega do projeto.
+## Medico
+![Diagrama de casos de uso Medico](docs/caso_de_uso_medico.png)
+
+# Descrição dos casos de uso
+
+## Paciente
+
+**Login do Paciente:**
+
+- *Ator Principal:* Paciente
+- *Descrição:* O paciente realiza login no sistema utilizando suas credenciais. Em caso de sucesso, tem acesso às funcionalidades do sistema; caso contrário, uma mensagem de erro é exibida.
+
+**Registro de Informações Pessoais:**
+
+- *Ator Principal:* Paciente
+- *Descrição:* O paciente pode inserir e atualizar suas informações pessoais, como nome, data de nascimento, sexo, endereço, número de telefone, RG e informações de contato de emergência.
+
+**Ver Receitas:**
+
+- *Ator Principal:* Paciente
+- *Descrição:* O paciente visualiza prescrições médicas anteriores, incluindo data, médico responsável e medicamentos prescritos.
+
+**Enviar Resultados de Exames:**
+
+- *Ator Principal:* Paciente
+- *Descrição:* O paciente faz upload de resultados de exames para compartilhar com seu médico, facilitando a comunicação entre eles.
+
+**Agendar Consultas:**
+
+- *Ator Principal:* Paciente
+- *Descrição:* O paciente agenda consultas com médicos disponíveis, escolhendo motivo, data e horário desejados.
+
+**Ver Consultas Realizadas:**
+
+- *Ator Principal:* Paciente
+- *Descrição:* O paciente visualiza suas consultas prévias com os médicos.
+
+## Medico
+
+**Caso de Uso: Login do Médico**
+
+- *Ator Principal:* Médico
+- *Descrição:* O médico faz login no sistema utilizando seu código de acesso. Em caso de sucesso, tem acesso às funcionalidades do sistema; caso contrário, uma mensagem de erro é exibida.
+
+**Caso de Uso: Registro de Informações Pessoais do Médico**
+
+- *Ator Principal:* Médico
+- *Descrição:* O médico insere e atualiza suas informações pessoais, como nome, idade, área de atuação, e outras informações relevantes.
+
+**Caso de Uso: Gerenciamento de Pacientes**
+
+- *Ator Principal:* Médico
+- *Ator Secundário:* Paciente
+- *Descrição:* O médico acessa e atualiza as informações pessoais e médicas de seus pacientes, incluindo nome, idade, sexo, RG, doenças pré-existentes, alergias e histórico familiar.
+
+**Caso de Uso: Prescrição de Receitas**
+
+- *Ator Principal:* Médico
+- *Ator Secundário:* Paciente
+- *Descrição:* O médico prescreve medicamentos e faz o upload da receita para o paciente, incluindo informações sobre a medicação e a dosagem.
+
+**Caso de Uso: Gerenciamento de Medicamentos**
+
+- *Ator Principal:* Médico
+- *Descrição:* O médico busca e filtra medicamentos por tipo e nome, auxiliando na prescrição de medicamentos.
+
+**Caso de Uso: Agenda de Consultas**
+
+- *Ator Principal:* Médico
+- *Ator Secundário:* Paciente
+- *Descrição:* O médico visualiza sua agenda de consultas, incluindo os horários marcados com os pacientes, facilitando o gerenciamento de consultas e atendimentos.
