@@ -20,8 +20,11 @@ A seguir, os passos para a preparação do projeto:
 
 
 # Projeto: *<Nome_do_seu_Projeto>*
+Pizza Express
 
 # Grupo: *<Nome_do_seu_Grupo>*
+
+Jogador solo
 
 # Descrição
 
