@@ -32,7 +32,7 @@ O objetivo é desenvolver um sistema de software para a Pizza-Express, no qual p
 
 # Documentação
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
+![Pizza-Express.docx](Pizza-Express.docx)
 
 
 
