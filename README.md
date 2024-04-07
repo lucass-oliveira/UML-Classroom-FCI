@@ -28,7 +28,7 @@ Jogador solo
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+O objetivo é desenvolver um sistema de software para a Pizza-Express, no qual possui uma perda de rendimento devido à concorrência que oferece entrega em 30 minutos.
 
 # Documentação
 
