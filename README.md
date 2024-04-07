@@ -32,7 +32,7 @@ O objetivo é desenvolver um sistema de software para a Pizza-Express, no qual p
 
 # Documentação
 
-![Pizza-Express.docx](Pizza-Express.docx)
+![Pizza-Express.txt](Pizza-Express.txt)
 
 
 
