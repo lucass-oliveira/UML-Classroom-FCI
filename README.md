@@ -98,6 +98,9 @@ Descrição: Este caso de uso permite que o entregador realize a entrega para a 
 - ## Diagrama de Classes
 - ![Diagrama_de_classes](docs/Diagrama_de_classes.jpg)
 
+- ## Diagrama de Implementação
+- ![Diagrama_de_implemtancao](docs/Diagrama_de_implementacao.jpg)
+
 
         
 
