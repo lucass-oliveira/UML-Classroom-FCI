@@ -31,21 +31,6 @@ Garantindo assim que o cliente irá receber sua pizza em menos de 30 minutos.
 -	Gestão de Entrega: Coordenar com o sistema de entrega para garantir que as pizzas sejam entregues dentro do prazo estabelecido.
 -	Relatórios de Desempenho: Gerar relatórios de desempenho para análise de eficiência operacional e identificação de áreas de melhoria.
 
-
-
-# Conteúdo
-
-- [Autores](#autores)
-- [Descrição do projeto](#)
-- [Diagrama_de_atividade](#Diagrama_de_atividade)
-- [DESCRIÇÃO_CASOS_DE_USO](#DESCRIÇÃO_CASOS_DE_USO)
-- [](#)
-- [](#)
-- [](#)
-- [](#)
-- [](#)
-- [](#) 
-
 # Autores
 
 * Lucas Bittencourt de Oliveira - TIA 42219851/RA 10409476
