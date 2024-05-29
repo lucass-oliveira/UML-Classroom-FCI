@@ -15,7 +15,7 @@
 (Tempo de Processamento + Tempo de Entrega <30)
 Garantindo assim que o cliente irá receber sua pizza em menos de 30 minutos.
 
-Requisitos do Sistema de Atendimento de Pedidos e Localização de Fábrica de Pizzas
+- ## Requisitos do Sistema de Atendimento de Pedidos e Localização de Fábrica de Pizzas
 
 - Rastreamento de Localização: O sistema deve ser capaz de identificar a localização do cliente e encontrar a fábrica de pizza Pizza-Express mais próxima para entrega.
 -	Entrada de Pedidos: Deve permitir que os clientes façam pedidos de pizzas de forma rápida e eficiente.
@@ -24,7 +24,7 @@ Requisitos do Sistema de Atendimento de Pedidos e Localização de Fábrica de P
 -	Tempo de Processamento: O sistema deve garantir que o tempo de processamento do pedido, incluindo a preparação da pizza + o tempo de entrega não exceda os 30 minutos.
 -	Rastreamento de Pedidos: Os clientes devem poder rastrear o status do pedido, desde a entrada até a entrega.
 
-Requisitos do Sistema de Operações da Fábrica de Pizzas
+- ## Requisitos do Sistema de Operações da Fábrica de Pizzas
 
 -	Gestão de Pedidos: O sistema deve gerenciar os pedidos recebidos da central de pedidos e garantir sua preparação rápida e precisa.
 -	Rastreamento de Tempo: Rastrear o tempo de preparação de cada pedido para garantir que os prazos de entrega sejam cumpridos.
