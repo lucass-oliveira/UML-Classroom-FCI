@@ -92,6 +92,9 @@ Descrição: Permite que o entregador receba um chamado após a loja de pizza pr
 - Caso de Uso: Realizar Entrega
 Descrição: Este caso de uso permite que o entregador realize a entrega para a qual foi chamado.
 
+- ## Diagrama de Sequencia
+- ![Diagrama_de_sequencia](docs/Diagrama_de_sequencia.jpg)
+
 
         
 
