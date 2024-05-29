@@ -3,7 +3,7 @@
 
 # Template para Disciplina de Engenharia de Software
 
-# Projeto: *<Pizza Express>*
+# Projeto: Pizza Planet
 
 # Grupo: Jogador Solo
 
