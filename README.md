@@ -48,7 +48,8 @@ Requisitos do Sistema de Operações da Fábrica de Pizzas
 * Lucas Bittencourt de Oliveira - TIA 42219851/RA 10409476
 
 # Releases
-- ![Diagrama_de_atividade](docs/Diagrama de atividade.png)
+- ## Diagrama de atividade
+- ![Diagrama de atividade](docs/Diagrama de atividade.png)
 - 
 
 
