@@ -95,6 +95,9 @@ Descrição: Este caso de uso permite que o entregador realize a entrega para a 
 - ## Diagrama de Sequencia
 - ![Diagrama_de_sequencia](docs/Diagrama_de_sequencia.jpg)
 
+- ## Diagrama de Classes
+- ![Diagrama_de_classes](docs/Diagrama_de_classes.jpg)
+
 
         
 
