@@ -38,7 +38,7 @@ Garantindo assim que o cliente irá receber sua pizza em menos de 30 minutos.
 - [Autores](#autores)
 - [Descrição do projeto](#)
 - [Diagrama_de_atividade](#Diagrama_de_atividade)
-- [](#)
+- [DESCRIÇÃO CASOS DE USO](#DESCRIÇÃO CASOS DE USO)
 - [](#)
 - [](#)
 - [](#)
