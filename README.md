@@ -24,10 +24,6 @@ O objetivo é desenvolver um sistema de software para a Pizza-Express, no qual p
 
 # Documentação
 
-![Pizza-Express.txt](Pizza-Express.txt)
-
-
-
 # Releases
 
 Deverá ser publicado um release ao término de cada entrega do projeto.
