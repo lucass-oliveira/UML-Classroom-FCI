@@ -8,11 +8,10 @@
 # Grupo: Jogador Solo
 
 # Descrição
-
-O objetivo é desenvolver um sistema de software para a Pizza-Express, no qual possui uma perda de rendimento devido à concorrência que oferece entrega em 30 minutos. 
-•	O primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega; 
-•	E o segundo é um sistema de software para suportar operações da fábrica de pizzas. 
-O sistema irá verificar o tempo de processamento da pizza com base nas demandas das lojas de pizza, e o tempo que o entregador levará para chegar à localização do cliente: 
+- O objetivo é desenvolver um sistema de software para a Pizza-Express, no qual possui uma perda de rendimento devido à concorrência que oferece entrega em 30 minutos.
+- O primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega;
+- E o segundo é um sistema de software para suportar operações da fábrica de pizzas.
+- O sistema irá verificar o tempo de processamento da pizza com base nas demandas das lojas de pizza, e o tempo que o entregador levará para chegar à localização do cliente: 
 (Tempo de Processamento + Tempo de Entrega <30)
 Garantindo assim que o cliente irá receber sua pizza em menos de 30 minutos.
 
@@ -49,8 +48,10 @@ Requisitos do Sistema de Operações da Fábrica de Pizzas
 
 # Releases
 - ## Diagrama de atividade
-- ![Diagrama de atividade](docs/Diagrama_de_atividade.jpg)
+- ![Diagrama de atividade](docs/Diagrama_de_atividade.png)
 - 
+
+
 
 
 
