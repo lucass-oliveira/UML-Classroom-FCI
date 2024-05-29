@@ -49,7 +49,7 @@ Requisitos do Sistema de Operações da Fábrica de Pizzas
 
 # Releases
 - ## Diagrama de atividade
-- ![Diagrama de atividade](docs/Diagrama de atividade.png)
+- ![Diagrama de atividade](docs/Diagrama_de_atividade.png)
 - 
 
 
