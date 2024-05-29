@@ -33,7 +33,7 @@ Garantindo assim que o cliente irá receber sua pizza em menos de 30 minutos.
 
 # Autores
 
-* Lucas Bittencourt de Oliveira - TIA 42219851/RA 10409476
+- ## Lucas Bittencourt de Oliveira - TIA 42219851/RA 10409476
 
 # Releases
 - ## Diagrama de atividade
