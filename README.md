@@ -5,7 +5,7 @@
 
 # Projeto: *<Pizza Express>*
 
-# Grupo: *<Jogador solo>*
+# Grupo: Jogador Solo
 
 # Descrição
 
