@@ -68,8 +68,32 @@ Requisitos do Sistema de Operações da Fábrica de Pizzas
 - ![Diagrama_caso_de_uso](docs/Diagrama_caso_de_uso.jpg)
   
 - ## DESCRIÇÃO CASOS DE USO
-- Caso de Uso: Realizar Pedido                                               
-Descrição: Permite ao cliente realizar um pedido de pizza.          
+- Caso de Uso: Realizar Pedido                                       
+Descrição: Permite ao cliente realizar um pedido de pizza.
+- Caso de Uso: Rastrear Pedido                                               
+Descrição: Permite ao cliente rastrear o status do seu pedido caso tenha realizado um.
+- Caso de Uso: Receber Pedido da Central de Pedidos                          
+Descrição: Permite as lojas de pizza receber pedidos da central.       
+- Caso de Uso: Preparar Pizza e Embalar                                      
+Descrição: Permite as lojas de pizza prepararem a pizza caso tenha recebido um pedido.
+- Caso de Uso: Gerar relatório de Demanda
+Descrição: Permite as lojas de pizza enviarem um relatório para a central com suas atuais demandas, para análise do tempo de processo e preparo de um subsequente pedido.
+- Caso de Uso: Receber pedido do Cliente
+Descrição: Permite a central de pedidos receber as informações quando o cliente realizar o pedido.
+- Caso de Uso: Verificar Relatórios das lojas
+Descrição: Permite a central de pedidos visualizar os relatórios entregues pelas lojas de pizza.
+- Caso de Uso: Encaminhar Pedido para loja de pizza com menor tempo de processamento e entrega.
+Descrição: Permite que após verificar relatórios das lojas, a central de pedidos decida para qual unidade irá enviar o pedido com base no cálculo: 
+(Tempo de Processamento + Tempo de Entrega <30)
+- Caso de Uso: Rastrear pedidos
+Descrição: Permite que a central de pedidos possa rastrear e acompanhar os pedidos dos clientes.
+- Caso de Uso: Receber Chamado
+Descrição: Permite que o entregador receba um chamado após a loja de pizza preparar e embalar o pedido do cliente.
+- Caso de Uso: Realizar Entrega
+Descrição: Este caso de uso permite que o entregador realize a entrega para a qual foi chamado.
+
+
+        
 
 
 
