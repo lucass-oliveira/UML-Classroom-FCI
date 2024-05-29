@@ -66,6 +66,11 @@ Requisitos do Sistema de Operações da Fábrica de Pizzas
 
 
 - ![Diagrama_caso_de_uso](docs/Diagrama_caso_de_uso.jpg)
+  
+- ## DESCRIÇÃO CASOS DE USO
+- Caso de Uso: Realizar Pedido                                               
+Descrição: Permite ao cliente realizar um pedido de pizza.          
+
 
 
 
