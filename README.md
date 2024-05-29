@@ -10,6 +10,17 @@
 # Descrição
 
 O objetivo é desenvolver um sistema de software para a Pizza-Express, no qual possui uma perda de rendimento devido à concorrência que oferece entrega em 30 minutos.
+**Conteúdo**
+
+- [Autores](#autores)
+- [Descrição do projeto](#)
+- [](#)
+- [](#)
+- [](#)
+
+# Autores
+
+* Lucas Bittencourt de Oliveira - TIA 42219851/RA 10409476
 
 # Documentação
 
